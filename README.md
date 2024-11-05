@@ -2,7 +2,7 @@
 
 Welcome to **GoStream**! GoStream is a backend service that enables real-time streaming of WAV audio to FLAC conversion through WebSocket communication. Designed with efficient concurrency and powered by `ffmpeg`, this service is optimized for handling audio conversions with speed and accuracy. GoStream is hosted on an AWS EC2 instance, ensuring high availability and scalability for real-world applications.
 
-> 🌐 **Live Demo**: [http://54.87.57.157/](#)   *(link to client website)*
+> 🌐 **Live Demo**: [http://54.87.57.157/](http://54.87.57.157/) *(link to client website)*
 
 ---
 
